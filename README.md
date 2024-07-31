@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi 👋, I'm Akshitha Chiluka
 <!--
 **AKSHITHA-CHILUKA/AKSHITHA-CHILUKA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,6 +39,11 @@ Here are some ideas to get you started:
 👯 I’m looking to collaborate on Real World Projects
 
 💬 Ask me about Web Development,Machine Learning,Deep Learning,Cybersecurity
+
+😄 Pronouns: She/Her 
+
+📫 How to reach me: 22wh1a12b5@bvrithyderabad.edu.in
+
 
 
 [![GitHub followers](https://img.shields.io/github/followers/AKSHITHA-CHILUKA?label=Follow&style=social)](https://github.com/AKSHITHA-CHILUKA)
@@ -184,7 +188,9 @@ A mental health ally with an AI assistant to track mood trends and access resour
 - **Pull Sharkx2**
 - **Quickdraw**
 
-## Contact Me
+## Connect with Me
+
+![LinkedIn Profile Picture](https://example.com/your-linkedin-profile-picture.jpg)
 
 - **Email**: [22wh1a12b5@bvrithyderabad.edu.in](mailto:22wh1a12b5@bvrithyderabad.edu.in)
 - **LinkedIn**: [Akshitha Chiluka](https://www.linkedin.com/in/akshitha-chiluka-b19245259/)
