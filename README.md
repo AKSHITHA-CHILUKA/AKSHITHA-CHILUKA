@@ -107,41 +107,12 @@ Clone of Flipkart using HTML, CSS, and JavaScript.
 ### [Unified-Travelling-and-Transport-System](https://github.com/HartzFrequency/Unified-Travelling-and-Transport-System)
 A transportation system unifying multiple modes of travel.
 
-### [ResourceHub](https://github.com/jfmartinz/ResourceHub)
-A one-stop repository of valuable resources curated by the community.
-
-### [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-A list of useful websites for programmers.
-
-### [Moksh](https://github.com/akshitagupta15june/Moksh)
-A project focused on achieving balance in life.
-
-### [medi-hub](https://github.com/itsmohit097/medi-hub)
-A MERN stack hospital management system.
-
 ### [TimeWarp](https://github.com/Akshatchaube01/TimeWarp)
 An open-source web app for exploring historical versions of locations using augmented reality.
 
 ### [krishiconnect](https://github.com/Anushkabh/krishiconnect)
 A project related to KrishnaConnect.
 
-### [lupo-skill](https://github.com/Tanay-ErrorCode/lupo-skill)
-A TypeScript project.
-
-### [mystory](https://github.com/Sayak-Bhunia/mystory)
-A new way to share stories anonymously.
-
-### [METAVERSE](https://github.com/apu52/METAVERSE)
-A collection of front-end projects, including HTML, CSS, JavaScript, and React, accepted for GSSOC'24 and SSOC'24.
-
-### [awesome-open-source-flutter-apps](https://github.com/fluttergems/awesome-open-source-flutter-apps)
-A curated list of awesome open-source Flutter apps.
-
-### [SwapReads](https://github.com/anuragverma108/SwapReads)
-A platform for book enthusiasts to connect and exchange favorite reads.
-
-### [e-commerce_website](https://github.com/MAVRICK-1/e-commerce_website)
-An e-commerce website project.
 
 ### [UltimateHealth](https://github.com/SB2318/UltimateHealth)
 An online library and article management application focused on health.
@@ -151,12 +122,6 @@ A location-based shopping website using GPS.
 
 ### [AgriLearnNetwork](https://github.com/Suchitra-Sahoo/AgriLearnNetwork)
 A platform designed to empower farmers with essential insights and resources.
-
-### [ML-CaPsule](https://github.com/Niketkumardheeryan/ML-CaPsule)
-A project for learning machine learning, including ML and DL.
-
-### [Community-Website](https://github.com/HITK-TECH-Community/Community-Website)
-The official website of HITK Tech Community.
 
 ### [ThereForYou](https://github.com/TAHIR0110/ThereForYou)
 A mental health ally with an AI assistant to track mood trends and access resources.
