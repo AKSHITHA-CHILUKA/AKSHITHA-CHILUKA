@@ -73,8 +73,6 @@ I am Chiluka Akshitha, a passionate software developer with an interest in devel
 - **Databases**: MySQL
 - **Tools**: Git
 
-## Projects
-
 
 
 ## Contributing To
