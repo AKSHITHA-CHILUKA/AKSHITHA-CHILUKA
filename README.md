@@ -31,6 +31,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+🔭 I’m currently working in a Research Project
+
+🌱 I’m currently learning more about Advanced AI
+
+👯 I’m looking to collaborate on Real World Projects
+
+💬 Ask me about Web Development,Machine Learning,Deep Learning,Cybersecurity
+
+
 [![GitHub followers](https://img.shields.io/github/followers/AKSHITHA-CHILUKA?label=Follow&style=social)](https://github.com/AKSHITHA-CHILUKA)
 [![Linkedin: akshitha-chiluka](https://img.shields.io/badge/-Akshitha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshitha-chiluka-b19245259/)](https://www.linkedin.com/in/akshitha-chiluka-b19245259/)
 [![Twitter: AkshithaChiluka](https://img.shields.io/twitter/follow/AkshithaChiluka?style=social)](https://x.com/AkshithaChiluka?t=5ztRGbV2DDB6Wf5tlCyHrw&s=09)
