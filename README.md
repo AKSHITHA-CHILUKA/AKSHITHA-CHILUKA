@@ -75,26 +75,7 @@ I am Chiluka Akshitha, a passionate software developer with an interest in devel
 
 ## Projects
 
-### [Hedging of Financial Derivatives](https://github.com/Akshat111111/Hedging-of-Financial-Derivatives)
-A comprehensive project focused on the analysis and hedging of financial derivatives using advanced computational methods.
 
-### [ThereForYou](https://github.com/Akshat111111/ThereForYou)
-A project aimed at predicting Chronic Kidney Disease (CKD) using machine learning techniques.
-
-### [Store Sales Prediction using Deep Learning](https://github.com/Akshat111111/Store-Sales-Prediction)
-Implemented recurrent neural networks (RNNs) to predict store sales and compared the performance with traditional regression models.
-
-### [HelpOps-Hub](https://github.com/Akshat111111/HelpOps-Hub)
-A project focused on creating a centralized hub for operational help and resources.
-
-### [CSS Documentation](https://codeharborhub.github.io/docs/CSS/)
-Contributed to the documentation of CSS on CodeHarborHub.
-
-### [Advanced DSA](https://codeharborhub.github.io/dsa/Advance/)
-Contributing to the advanced data structures and algorithms topics on CodeHarborHub.
-
-### [CPP STL](https://codeharborhub.github.io/dsa/intermediate/cpp_stl/)
-Contributing to the intermediate level C++ Standard Template Library documentation on CodeHarborHub.
 
 ## Contributing To
 
@@ -190,7 +171,6 @@ A mental health ally with an AI assistant to track mood trends and access resour
 
 ## Connect with Me
 
-![LinkedIn Profile Picture](https://example.com/your-linkedin-profile-picture.jpg)
 
 - **Email**: [22wh1a12b5@bvrithyderabad.edu.in](mailto:22wh1a12b5@bvrithyderabad.edu.in)
 - **LinkedIn**: [Akshitha Chiluka](https://www.linkedin.com/in/akshitha-chiluka-b19245259/)
