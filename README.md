@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 👯 I’m looking to collaborate on Real World Projects
 
-💬 Ask me about Web Development,Machine Learning,Cybersecurity, AI 
+💬 Ask me about Machine Learning,Cybersecurity, AI 
 
 😄 Pronouns: She/Her 
 
