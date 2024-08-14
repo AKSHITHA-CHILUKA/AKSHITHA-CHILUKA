@@ -6,6 +6,14 @@
 
 
 
+[![GitHub followers](https://img.shields.io/github/followers/AKSHITHA-CHILUKA?label=Follow&style=social)](https://github.com/AKSHITHA-CHILUKA)
+[![Linkedin: akshitha-chiluka](https://img.shields.io/badge/-Akshitha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshitha-chiluka-b19245259/)](https://www.linkedin.com/in/akshitha-chiluka-b19245259/)
+[![Twitter: AkshithaChiluka](https://img.shields.io/twitter/follow/AkshithaChiluka?style=social)](https://x.com/AkshithaChiluka?t=5ztRGbV2DDB6Wf5tlCyHrw&s=09)
+
+## About Me
+
+I am Chiluka Akshitha, a passionate software developer with an interest in developing innovative programs. My aim is to use my skills to solve real-world problems and make a positive impact. I am currently affiliated with IIT Madras and Bvrit Hyderabad, and I am a GSSOC'24 Contributor.
+
 🌱 I’m currently learning more about Genrative AI
 
 👯 I’m looking to collaborate on Real World Projects
@@ -16,15 +24,6 @@
 
 📫 How to reach me: 22wh1a12b5@bvrithyderabad.edu.in
 
-
-
-[![GitHub followers](https://img.shields.io/github/followers/AKSHITHA-CHILUKA?label=Follow&style=social)](https://github.com/AKSHITHA-CHILUKA)
-[![Linkedin: akshitha-chiluka](https://img.shields.io/badge/-Akshitha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshitha-chiluka-b19245259/)](https://www.linkedin.com/in/akshitha-chiluka-b19245259/)
-[![Twitter: AkshithaChiluka](https://img.shields.io/twitter/follow/AkshithaChiluka?style=social)](https://x.com/AkshithaChiluka?t=5ztRGbV2DDB6Wf5tlCyHrw&s=09)
-
-## About Me
-
-I am Chiluka Akshitha, a passionate software developer with an interest in developing innovative programs. My aim is to use my skills to solve real-world problems and make a positive impact. I am currently affiliated with IIT Madras and Bvrit Hyderabad, and I am a GSSOC'24 Contributor.
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
