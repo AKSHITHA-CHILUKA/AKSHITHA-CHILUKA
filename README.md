@@ -36,6 +36,31 @@ I am Chiluka Akshitha, a passionate software developer with an interest in devel
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" /></a>
 </div>
 
+
+<br>
+
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKSHITHA-CHILUKA&theme=radical" alt="Profile Summary">
+</td>
+</tr>
+</table>
+
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=AKSHITHA-CHILUKA&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
+</td>
+<td>
+  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=AKSHITHA-CHILUKA&theme=radical" alt="Streak Stats"/>
+</td>
+</tr>
+</table>
+<br>
+
+
+
 ## Skills
 
 - **Languages**: Python, JavaScript, C, Java ,TypeScript
