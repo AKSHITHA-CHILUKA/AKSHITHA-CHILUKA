@@ -77,3 +77,7 @@ I am Chiluka Akshitha, a passionate software developer with an interest in devel
 ---
 
 ⭐️ From [AKSHITHA-CHILUKA](https://github.com/AKSHITHA-CHILUKA)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
+</p>
