@@ -9,6 +9,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/AKSHITHA-CHILUKA?label=Follow&style=social)](https://github.com/AKSHITHA-CHILUKA)
 [![Linkedin: akshitha-chiluka](https://img.shields.io/badge/-Akshitha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshitha-chiluka-b19245259/)](https://www.linkedin.com/in/akshitha-chiluka-b19245259/)
 [![Twitter: AkshithaChiluka](https://img.shields.io/twitter/follow/AkshithaChiluka?style=social)](https://x.com/AkshithaChiluka?t=5ztRGbV2DDB6Wf5tlCyHrw&s=09)
+![Profile Views](https://komarev.com/ghpvc/?username=AKSHITHA-CHILUKA&color=blue)
+
 
 ## About Me
 
