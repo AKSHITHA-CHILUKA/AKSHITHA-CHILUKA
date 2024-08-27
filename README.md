@@ -57,9 +57,9 @@ I am Chiluka Akshitha, a passionate software developer with an interest in devel
 
 ## Skills
 
-- **Languages**: Python, JavaScript, C, Java ,TypeScript
+- **Languages**: Python, C, Java 
 - **Web Development**: HTML, CSS, React, Node.js
-- **Data Science**: Pandas, NumPy, Scikit-Learn, TensorFlow
+- **Data Science**: Pandas, NumPy
 - **Databases**: MySQL
 - **Tools**: Git
 
