@@ -63,8 +63,13 @@ I am Chiluka Akshitha, a passionate software developer with an interest in devel
 
 ## Achievements
 
-- **Pull Sharkx2**
-- **Quickdraw**
+
+**Pair Extraordinaire**
+**YOLO**
+**Starstruck**
+**Galaxy Brain**
+**Pull Shark (x2)**
+**Quickdraw**
 
 ## Connect with Me
 
