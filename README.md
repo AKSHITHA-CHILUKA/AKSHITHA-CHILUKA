@@ -61,16 +61,6 @@ I am Chiluka Akshitha, a passionate software developer with an interest in devel
 - **Databases**: MySQL
 - **Tools**: Git
 
-## Achievements
-
-
-**Pair Extraordinaire**
-**YOLO**
-**Starstruck**
-**Galaxy Brain**
-**Pull Shark (x2)**
-**Quickdraw**
-
 ## Connect with Me
 
 
