@@ -62,13 +62,7 @@ I am Chiluka Akshitha, a passionate software developer with an interest in devel
 - **Tools**: Git
 
 ## Connect with Me
-
-
 - **Email**: [22wh1a12b5@bvrithyderabad.edu.in](mailto:22wh1a12b5@bvrithyderabad.edu.in)
-- **LinkedIn**: [Akshitha Chiluka](https://www.linkedin.com/in/akshitha-chiluka-b19245259/)
-- **Twitter**: [AkshithaChiluka](https://x.com/AkshithaChiluka?t=5ztRGbV2DDB6Wf5tlCyHrw&s=09)
-- **GitHub**: [AKSHITHA-CHILUKA](https://github.com/AKSHITHA-CHILUKA)
-
 ---
 
 ⭐️ From [AKSHITHA-CHILUKA](https://github.com/AKSHITHA-CHILUKA)
