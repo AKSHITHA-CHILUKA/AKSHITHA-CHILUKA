@@ -38,6 +38,7 @@ I am Chiluka Akshitha, a passionate software developer with an interest in devel
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" /></a>
 </div>
 
+
 <table width="100%" align="center">
 <tr>
 <td>
