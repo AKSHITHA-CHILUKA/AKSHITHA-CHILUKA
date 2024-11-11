@@ -18,9 +18,13 @@
 I am Chiluka Akshitha, a passionate software developer with an interest in developing innovative programs. My aim is to use my skills to solve real-world problems and make a positive impact. I am currently affiliated with IIT Madras and Bvrit Hyderabad, and I am a GSSOC'24 Contributor.
 
 🌱 I’m currently learning more about Genrative AI
+
 👯 I’m looking to collaborate on Real World Projects
+
 💬 Ask me about Machine Learning,Cybersecurity, AI 
+
 😄 Pronouns: She/Her 
+
 📫 How to reach me: 22wh1a12b5@bvrithyderabad.edu.in
 
 ## GSSOC(24) Badges 🪶
