@@ -44,7 +44,7 @@ I am Chiluka Akshitha, a passionate software developer with an interest in devel
 </div>
 
 
-## My Custom Badges 🏅
+## My Badges 🏅
 <p align="center">
   <img src="https://github.com/AKSHITHA-CHILUKA/AKSHITHA-CHILUKA/blob/main/assertion-XkuMujUWTASFmoCJW7fpVw.png" alt="Banner" width="100" height="100">
   
