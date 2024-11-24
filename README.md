@@ -93,3 +93,11 @@ I am Chiluka Akshitha, a passionate software developer with an interest in devel
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
 </p>
+
+
+<center>
+  <a href="https://holopin.io/@akshithachiluka">
+    <img src="https://holopin.me/akshithachiluka" alt="An image of @akshithachiluka's Holopin badges" height="200"/>
+  </a>
+</center>
+
