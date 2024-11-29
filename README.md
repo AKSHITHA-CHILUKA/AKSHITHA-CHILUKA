@@ -56,7 +56,6 @@ I am Chiluka Akshitha, a passionate software developer with an interest in devel
 </p>
 
 ## Hacktoberfest'24 Badges
-
 [![An image of @akshithachiluka's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akshithachiluka)](https://holopin.io/@akshithachiluka)
 
 
