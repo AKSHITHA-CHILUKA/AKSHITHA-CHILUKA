@@ -74,6 +74,7 @@ I am Chiluka Akshitha, a passionate software developer with an interest in devel
 </tr>
 </table>
 
+
 ## Skills
 
 - **Languages**: Python, C, Java 
