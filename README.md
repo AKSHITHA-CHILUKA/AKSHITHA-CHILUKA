@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://github.com/AKSHITHA-CHILUKA/AKSHITHA-CHILUKA/blob/main/Purple%20Gradient%20Liquid%20Computer%20Class%20Google%20Classroom%20Header.jpg" alt="Banner">
 </p>
-
 <p align="center">
   <a href="https://github.com/AKSHITHA-CHILUKA">
     <img src="https://img.shields.io/github/followers/AKSHITHA-CHILUKA?label=Follow&style=social" alt="GitHub followers">
