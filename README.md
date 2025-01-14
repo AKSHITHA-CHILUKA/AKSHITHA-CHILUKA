@@ -20,7 +20,7 @@
 
 ## About Me
 
-I am Chiluka Akshitha, a passionate software developer with an interest in developing innovative programs. My aim is to use my skills to solve real-world problems and make a positive impact. I am currently affiliated with IIT Madras and Bvrit Hyderabad, and I am a GSSOC'24 Contributor.
+I am Chiluka Akshitha, a passionate software developer with an interest in developing innovative programs. My aim is to use my skills to solve real-world problems and make a positive impact. I am currently affiliated with IIT Madras and Bvrit Hyderabad, and I am a GSSOC'24 Contributor.Infosys Springboard AI intern 
 
 🌱 I’m currently learning more about Genrative AI
 
@@ -77,7 +77,7 @@ I am Chiluka Akshitha, a passionate software developer with an interest in devel
 
 - **Languages**: Python, C, Java 
 - **Web Development**: HTML, CSS
-- **Data Science**: Pandas, NumPy
+- **Data Science**: Pandas, NumPy , ML , AI
 - **Databases**: MySQL
 - **Tools**: Git
 
