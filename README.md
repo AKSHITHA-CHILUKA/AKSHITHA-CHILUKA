@@ -32,6 +32,7 @@ I am Chiluka Akshitha, a passionate software developer with an interest in devel
 
 📫 How to reach me: 22wh1a12b5@bvrithyderabad.edu.in
 
+
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 
