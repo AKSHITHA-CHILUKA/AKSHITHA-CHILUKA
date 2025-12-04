@@ -78,9 +78,10 @@ I am Chiluka Akshitha, a passionate software developer with an interest in devel
 
 - **Languages**: Python, C, Java 
 - **Web Development**: HTML, CSS
-- **Data Science**: Pandas, NumPy , ML , AI
+- **Data Science**: Pandas, NumPy , ML , AI , 
 - **Databases**: MySQL
-- **Tools**: Git
+- **Tools**: Git, Github Actions
+- Kafka , Databricks , AEP , DOCKER , POSTMAN , 
 
 ## Connect with Me
 - **Email**: [22wh1a12b5@bvrithyderabad.edu.in](mailto:22wh1a12b5@bvrithyderabad.edu.in)
