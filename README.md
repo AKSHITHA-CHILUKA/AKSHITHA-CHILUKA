@@ -1,6 +1,5 @@
 ## Hi 👋, I'm Akshitha Chiluka
 
-
 <p align="center">
   <img src="https://github.com/AKSHITHA-CHILUKA/AKSHITHA-CHILUKA/blob/main/Purple%20Gradient%20Liquid%20Computer%20Class%20Google%20Classroom%20Header.jpg" alt="Banner">
 </p>
